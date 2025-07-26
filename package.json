@@ -11,5 +11,9 @@
   },
   "dependencies": {
     "sst": "^3"
+  },
+  "optionalDependencies": {
+    "@rollup/rollup-linux-x64-gnu": "^4.45.3",
+    "sst-linux-x64": "^3.17.10"
   }
 }
